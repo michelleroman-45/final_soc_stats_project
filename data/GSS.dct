@@ -1,0 +1,7 @@
+infile dictionary {
+    _column(1)    numeric                               YEAR   %20f  "Gss year for this respondent                       "
+   _column(21)    numeric                                ID_   %20f  "Respondent id number"
+   _column(41)    numeric                             HEALTH   %20f  "Condition of health"
+   _column(61)    numeric                             CLASS_   %20f  "Subjective class identification"
+   _column(81)    numeric                           HELPSICK   %20f  "Should govt help pay for medical care?"
+}
